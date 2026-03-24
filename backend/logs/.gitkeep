@@ -1,0 +1,10 @@
+New-Item backend/logs/.gitkeep
+```
+
+Agrega `logs/*.json` al `backend/.gitignore`:
+```
+node_modules/
+.env
+serviceAccountKey.json
+*.log
+logs/*.json

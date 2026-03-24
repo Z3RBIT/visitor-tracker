@@ -1,0 +1,1652 @@
+{
+  "generatedAt": "2026-03-24T03:10:40.713Z",
+  "totalRecords": 35,
+  "stats": {
+    "total": 35,
+    "today": 4,
+    "byCountry": {
+      "Colombia": 35
+    },
+    "byBrowser": {
+      "Chrome": 33,
+      "Safari": 2
+    },
+    "byOS": {
+      "Windows": 33,
+      "macOS": 2
+    },
+    "byDevice": {
+      "desktop": 33,
+      "mobile": 2
+    }
+  },
+  "visitors": [
+    {
+      "id": "KMfwnLLu0yvbke3pmPsn",
+      "network": {
+        "ip": "186.118.233.54",
+        "isp": "COLOMBIA TELECOMUNICACIONES S.A. ESP BIC",
+        "timezone": "America/Bogota"
+      },
+      "location": {
+        "country": "Colombia",
+        "countryCode": "CO",
+        "region": "Tolima",
+        "city": "Ibagué",
+        "lat": 4.44893980223005,
+        "lon": -75.14326431903916,
+        "source": "gps"
+      },
+      "browser": {
+        "name": "Chrome",
+        "version": "146.0.0.0",
+        "engine": "Blink",
+        "language": "en-US",
+        "cookiesEnabled": true,
+        "doNotTrack": false
+      },
+      "os": {
+        "name": "Windows",
+        "version": "10/11",
+        "architecture": "x86_64"
+      },
+      "device": {
+        "type": "desktop",
+        "vendor": "Unknown",
+        "model": "Unknown",
+        "screen": "1366x768",
+        "colorDepth": 32,
+        "touchSupport": false,
+        "memory": "8 GB",
+        "cores": 8,
+        "connection": "Unknown",
+        "architecture": "x86_64"
+      },
+      "session": {
+        "referrer": "Direct",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
+      },
+      "timestamp": "2026-03-24T03:04:31.541Z"
+    },
+    {
+      "id": "WkAQVWZ1ahwBhlOq1cDg",
+      "network": {
+        "ip": "186.118.233.54",
+        "isp": "COLOMBIA TELECOMUNICACIONES S.A. ESP BIC",
+        "timezone": "America/Bogota"
+      },
+      "location": {
+        "country": "Colombia",
+        "countryCode": "CO",
+        "region": "Tolima",
+        "city": "Ibagué",
+        "lat": 4.44893980223005,
+        "lon": -75.14326431903916,
+        "source": "gps"
+      },
+      "browser": {
+        "name": "Chrome",
+        "version": "146.0.0.0",
+        "engine": "Blink",
+        "language": "en-US",
+        "cookiesEnabled": true,
+        "doNotTrack": false
+      },
+      "os": {
+        "name": "Windows",
+        "version": "10/11",
+        "architecture": "x86_64"
+      },
+      "device": {
+        "type": "desktop",
+        "vendor": "Unknown",
+        "model": "Unknown",
+        "screen": "1366x768",
+        "colorDepth": 32,
+        "touchSupport": false,
+        "memory": "8 GB",
+        "cores": 8,
+        "connection": "Unknown",
+        "architecture": "x86_64"
+      },
+      "session": {
+        "referrer": "Direct",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
+      },
+      "timestamp": "2026-03-24T03:04:30.761Z"
+    },
+    {
+      "id": "gOofgmIuCj2ZiSiqUbxa",
+      "network": {
+        "ip": "186.118.233.54",
+        "isp": "COLOMBIA TELECOMUNICACIONES S.A. ESP BIC",
+        "timezone": "America/Bogota"
+      },
+      "location": {
+        "country": "Colombia",
+        "countryCode": "CO",
+        "region": "Tolima",
+        "city": "Ibagué",
+        "lat": 4.44894969016683,
+        "lon": -75.14327092967109,
+        "source": "gps"
+      },
+      "browser": {
+        "name": "Chrome",
+        "version": "146.0.0.0",
+        "engine": "Blink",
+        "language": "en-US",
+        "cookiesEnabled": true,
+        "doNotTrack": false
+      },
+      "os": {
+        "name": "Windows",
+        "version": "10/11",
+        "architecture": "x86_64"
+      },
+      "device": {
+        "type": "desktop",
+        "vendor": "Unknown",
+        "model": "Unknown",
+        "screen": "1366x768",
+        "colorDepth": 32,
+        "touchSupport": false,
+        "memory": "8 GB",
+        "cores": 8,
+        "connection": "Unknown",
+        "architecture": "x86_64"
+      },
+      "session": {
+        "referrer": "Direct",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
+      },
+      "timestamp": "2026-03-24T01:58:48.662Z"
+    },
+    {
+      "id": "AC8qQI8kbhHgzH6wEThx",
+      "network": {
+        "ip": "186.118.233.54",
+        "isp": "COLOMBIA TELECOMUNICACIONES S.A. ESP BIC",
+        "timezone": "America/Bogota"
+      },
+      "location": {
+        "country": "Colombia",
+        "countryCode": "CO",
+        "region": "Tolima",
+        "city": "Ibagué",
+        "lat": 4.44894969016683,
+        "lon": -75.14327092967109,
+        "source": "gps"
+      },
+      "browser": {
+        "name": "Chrome",
+        "version": "146.0.0.0",
+        "engine": "Blink",
+        "language": "en-US",
+        "cookiesEnabled": true,
+        "doNotTrack": false
+      },
+      "os": {
+        "name": "Windows",
+        "version": "10/11",
+        "architecture": "x86_64"
+      },
+      "device": {
+        "type": "desktop",
+        "vendor": "Unknown",
+        "model": "Unknown",
+        "screen": "1366x768",
+        "colorDepth": 32,
+        "touchSupport": false,
+        "memory": "8 GB",
+        "cores": 8,
+        "connection": "Unknown",
+        "architecture": "x86_64"
+      },
+      "session": {
+        "referrer": "Direct",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
+      },
+      "timestamp": "2026-03-24T01:58:48.661Z"
+    },
+    {
+      "id": "TMKsvZAfw5pTzrh2PPTl",
+      "network": {
+        "ip": "2803:1800:1110:c089:4c4a:1961:7bd2:11cd",
+        "isp": "Colombia Movil",
+        "timezone": "America/Bogota"
+      },
+      "location": {
+        "country": "Colombia",
+        "countryCode": "CO",
+        "region": "Tolima",
+        "city": "Ibagué",
+        "lat": 4.445612270036027,
+        "lon": -75.23975260327504,
+        "source": "gps"
+      },
+      "browser": {
+        "name": "Chrome",
+        "version": "146.0.0.0",
+        "engine": "Blink",
+        "language": "en-US",
+        "cookiesEnabled": true,
+        "doNotTrack": false
+      },
+      "os": {
+        "name": "Windows",
+        "version": "10/11",
+        "architecture": "x86_64"
+      },
+      "device": {
+        "type": "desktop",
+        "vendor": "Unknown",
+        "model": "Unknown",
+        "screen": "1366x768",
+        "colorDepth": 32,
+        "touchSupport": false,
+        "memory": "8 GB",
+        "cores": 8,
+        "connection": "Unknown",
+        "architecture": "x86_64"
+      },
+      "session": {
+        "referrer": "Direct",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
+      },
+      "timestamp": "2026-03-17T01:45:50.315Z"
+    },
+    {
+      "id": "tVK1kcHChX03SvJco9rZ",
+      "network": {
+        "ip": "2803:1800:1110:c089:4c4a:1961:7bd2:11cd",
+        "isp": "Colombia Movil",
+        "timezone": "America/Bogota"
+      },
+      "location": {
+        "country": "Colombia",
+        "countryCode": "CO",
+        "region": "Tolima",
+        "city": "Ibagué",
+        "lat": 4.445612270036027,
+        "lon": -75.23975260327504,
+        "source": "gps"
+      },
+      "browser": {
+        "name": "Chrome",
+        "version": "146.0.0.0",
+        "engine": "Blink",
+        "language": "en-US",
+        "cookiesEnabled": true,
+        "doNotTrack": false
+      },
+      "os": {
+        "name": "Windows",
+        "version": "10/11",
+        "architecture": "x86_64"
+      },
+      "device": {
+        "type": "desktop",
+        "vendor": "Unknown",
+        "model": "Unknown",
+        "screen": "1366x768",
+        "colorDepth": 32,
+        "touchSupport": false,
+        "memory": "8 GB",
+        "cores": 8,
+        "connection": "Unknown",
+        "architecture": "x86_64"
+      },
+      "session": {
+        "referrer": "Direct",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
+      },
+      "timestamp": "2026-03-17T01:45:49.529Z"
+    },
+    {
+      "id": "wFAp6Y2VHhttVsszhUPX",
+      "network": {
+        "ip": "2803:1800:1110:c089:4c4a:1961:7bd2:11cd",
+        "isp": "Colombia Movil",
+        "timezone": "America/Bogota"
+      },
+      "location": {
+        "country": "Colombia",
+        "countryCode": "CO",
+        "region": "Tolima",
+        "city": "Ibagué",
+        "lat": 4.445612270036027,
+        "lon": -75.23975260327504,
+        "source": "gps"
+      },
+      "browser": {
+        "name": "Chrome",
+        "version": "146.0.0.0",
+        "engine": "Blink",
+        "language": "en-US",
+        "cookiesEnabled": true,
+        "doNotTrack": false
+      },
+      "os": {
+        "name": "Windows",
+        "version": "10/11",
+        "architecture": "x86_64"
+      },
+      "device": {
+        "type": "desktop",
+        "vendor": "Unknown",
+        "model": "Unknown",
+        "screen": "1366x768",
+        "colorDepth": 32,
+        "touchSupport": false,
+        "memory": "8 GB",
+        "cores": 8,
+        "connection": "Unknown",
+        "architecture": "x86_64"
+      },
+      "session": {
+        "referrer": "Direct",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
+      },
+      "timestamp": "2026-03-17T01:16:34.802Z"
+    },
+    {
+      "id": "PTnA68UgSmIVTIxor2Dn",
+      "network": {
+        "ip": "2803:1800:1110:c089:4c4a:1961:7bd2:11cd",
+        "isp": "Colombia Movil",
+        "timezone": "America/Bogota"
+      },
+      "location": {
+        "country": "Colombia",
+        "countryCode": "CO",
+        "region": "Tolima",
+        "city": "Ibagué",
+        "lat": 4.445612270036027,
+        "lon": -75.23975260327504,
+        "source": "gps"
+      },
+      "browser": {
+        "name": "Chrome",
+        "version": "146.0.0.0",
+        "engine": "Blink",
+        "language": "en-US",
+        "cookiesEnabled": true,
+        "doNotTrack": false
+      },
+      "os": {
+        "name": "Windows",
+        "version": "10/11",
+        "architecture": "x86_64"
+      },
+      "device": {
+        "type": "desktop",
+        "vendor": "Unknown",
+        "model": "Unknown",
+        "screen": "1366x768",
+        "colorDepth": 32,
+        "touchSupport": false,
+        "memory": "8 GB",
+        "cores": 8,
+        "connection": "Unknown",
+        "architecture": "x86_64"
+      },
+      "session": {
+        "referrer": "Direct",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
+      },
+      "timestamp": "2026-03-17T01:16:34.021Z"
+    },
+    {
+      "id": "6q6XEWe8pEf3U32xnU13",
+      "network": {
+        "ip": "2803:1800:1110:c089:4c4a:1961:7bd2:11cd",
+        "isp": "Colombia Movil",
+        "timezone": "America/Bogota"
+      },
+      "location": {
+        "country": "Colombia",
+        "countryCode": "CO",
+        "region": "Tolima",
+        "city": "Ibagué",
+        "lat": 4.445612270036027,
+        "lon": -75.23975260327504,
+        "source": "gps"
+      },
+      "browser": {
+        "name": "Chrome",
+        "version": "146.0.0.0",
+        "engine": "Blink",
+        "language": "en-US",
+        "cookiesEnabled": true,
+        "doNotTrack": false
+      },
+      "os": {
+        "name": "Windows",
+        "version": "10/11",
+        "architecture": "x86_64"
+      },
+      "device": {
+        "type": "desktop",
+        "vendor": "Unknown",
+        "model": "Unknown",
+        "screen": "1366x768",
+        "colorDepth": 32,
+        "touchSupport": false,
+        "memory": "8 GB",
+        "cores": 8,
+        "connection": "Unknown",
+        "architecture": "x86_64"
+      },
+      "session": {
+        "referrer": "Direct",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
+      },
+      "timestamp": "2026-03-17T01:16:23.409Z"
+    },
+    {
+      "id": "W0h1o0WusY0yFJE2tw7Q",
+      "network": {
+        "ip": "2803:1800:1110:c089:4c4a:1961:7bd2:11cd",
+        "isp": "Colombia Movil",
+        "timezone": "America/Bogota"
+      },
+      "location": {
+        "country": "Colombia",
+        "countryCode": "CO",
+        "region": "Tolima",
+        "city": "Ibagué",
+        "lat": 4.445612270036027,
+        "lon": -75.23975260327504,
+        "source": "gps"
+      },
+      "browser": {
+        "name": "Chrome",
+        "version": "146.0.0.0",
+        "engine": "Blink",
+        "language": "en-US",
+        "cookiesEnabled": true,
+        "doNotTrack": false
+      },
+      "os": {
+        "name": "Windows",
+        "version": "10/11",
+        "architecture": "x86_64"
+      },
+      "device": {
+        "type": "desktop",
+        "vendor": "Unknown",
+        "model": "Unknown",
+        "screen": "1366x768",
+        "colorDepth": 32,
+        "touchSupport": false,
+        "memory": "8 GB",
+        "cores": 8,
+        "connection": "Unknown",
+        "architecture": "x86_64"
+      },
+      "session": {
+        "referrer": "Direct",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
+      },
+      "timestamp": "2026-03-17T01:16:22.628Z"
+    },
+    {
+      "id": "BKLsD7kGcwKNdpI6wVxQ",
+      "network": {
+        "ip": "2803:1800:1110:c089:4c4a:1961:7bd2:11cd",
+        "isp": "Colombia Movil",
+        "timezone": "America/Bogota"
+      },
+      "location": {
+        "country": "Colombia",
+        "countryCode": "CO",
+        "region": "Tolima",
+        "city": "Ibagué",
+        "lat": 4.445590709107806,
+        "lon": -75.23977069330856,
+        "source": "gps"
+      },
+      "browser": {
+        "name": "Chrome",
+        "version": "146.0.0.0",
+        "engine": "Blink",
+        "language": "en-US",
+        "cookiesEnabled": true,
+        "doNotTrack": false
+      },
+      "os": {
+        "name": "Windows",
+        "version": "10/11",
+        "architecture": "x86_64"
+      },
+      "device": {
+        "type": "desktop",
+        "vendor": "Unknown",
+        "model": "Unknown",
+        "screen": "1366x768",
+        "colorDepth": 32,
+        "touchSupport": false,
+        "memory": "8 GB",
+        "cores": 8,
+        "connection": "Unknown",
+        "architecture": "x86_64"
+      },
+      "session": {
+        "referrer": "Direct",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
+      },
+      "timestamp": "2026-03-17T01:15:25.197Z"
+    },
+    {
+      "id": "hmaQ3XJBJSB6iwHLYzT2",
+      "network": {
+        "ip": "2803:1800:1110:c089:4c4a:1961:7bd2:11cd",
+        "isp": "Colombia Movil",
+        "timezone": "America/Bogota"
+      },
+      "location": {
+        "country": "Colombia",
+        "countryCode": "CO",
+        "region": "Tolima",
+        "city": "Ibagué",
+        "lat": 4.445590709107806,
+        "lon": -75.23977069330856,
+        "source": "gps"
+      },
+      "browser": {
+        "name": "Chrome",
+        "version": "146.0.0.0",
+        "engine": "Blink",
+        "language": "en-US",
+        "cookiesEnabled": true,
+        "doNotTrack": false
+      },
+      "os": {
+        "name": "Windows",
+        "version": "10/11",
+        "architecture": "x86_64"
+      },
+      "device": {
+        "type": "desktop",
+        "vendor": "Unknown",
+        "model": "Unknown",
+        "screen": "1366x768",
+        "colorDepth": 32,
+        "touchSupport": false,
+        "memory": "8 GB",
+        "cores": 8,
+        "connection": "Unknown",
+        "architecture": "x86_64"
+      },
+      "session": {
+        "referrer": "Direct",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
+      },
+      "timestamp": "2026-03-17T01:15:24.412Z"
+    },
+    {
+      "id": "AvrlEOlGnrzatzjo1zdG",
+      "network": {
+        "ip": "2803:1800:1110:c089:4c4a:1961:7bd2:11cd",
+        "isp": "Colombia Movil",
+        "timezone": "America/Bogota"
+      },
+      "location": {
+        "country": "Colombia",
+        "countryCode": "CO",
+        "region": "Tolima",
+        "city": "Ibagué",
+        "lat": 4.445634668304,
+        "lon": -75.23975110969134,
+        "source": "gps"
+      },
+      "browser": {
+        "name": "Chrome",
+        "version": "146.0.0.0",
+        "engine": "Blink",
+        "language": "en-US",
+        "cookiesEnabled": true,
+        "doNotTrack": false
+      },
+      "os": {
+        "name": "Windows",
+        "version": "10/11",
+        "architecture": "x86_64"
+      },
+      "device": {
+        "type": "desktop",
+        "vendor": "Unknown",
+        "model": "Unknown",
+        "screen": "1366x768",
+        "colorDepth": 32,
+        "touchSupport": false,
+        "memory": "8 GB",
+        "cores": 8,
+        "connection": "Unknown",
+        "architecture": "x86_64"
+      },
+      "session": {
+        "referrer": "Direct",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
+      },
+      "timestamp": "2026-03-17T01:15:02.454Z"
+    },
+    {
+      "id": "jfO9sbUaIW4w4vVoOOgp",
+      "network": {
+        "ip": "2803:1800:1110:c089:4c4a:1961:7bd2:11cd",
+        "isp": "Colombia Movil",
+        "timezone": "America/Bogota"
+      },
+      "location": {
+        "country": "Colombia",
+        "countryCode": "CO",
+        "region": "Tolima",
+        "city": "Ibagué",
+        "lat": 4.445634668304,
+        "lon": -75.23975110969134,
+        "source": "gps"
+      },
+      "browser": {
+        "name": "Chrome",
+        "version": "146.0.0.0",
+        "engine": "Blink",
+        "language": "en-US",
+        "cookiesEnabled": true,
+        "doNotTrack": false
+      },
+      "os": {
+        "name": "Windows",
+        "version": "10/11",
+        "architecture": "x86_64"
+      },
+      "device": {
+        "type": "desktop",
+        "vendor": "Unknown",
+        "model": "Unknown",
+        "screen": "1366x768",
+        "colorDepth": 32,
+        "touchSupport": false,
+        "memory": "8 GB",
+        "cores": 8,
+        "connection": "Unknown",
+        "architecture": "x86_64"
+      },
+      "session": {
+        "referrer": "Direct",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
+      },
+      "timestamp": "2026-03-17T01:15:01.654Z"
+    },
+    {
+      "id": "FhpK65jPgZNb66IDfYnT",
+      "network": {
+        "ip": "2803:1800:1110:c089:4c4a:1961:7bd2:11cd",
+        "isp": "Colombia Movil",
+        "timezone": "America/Bogota"
+      },
+      "location": {
+        "country": "Colombia",
+        "countryCode": "CO",
+        "region": "Tolima",
+        "city": "Ibagué",
+        "lat": 4.445634668304,
+        "lon": -75.23975110969134,
+        "source": "gps"
+      },
+      "browser": {
+        "name": "Chrome",
+        "version": "146.0.0.0",
+        "engine": "Blink",
+        "language": "en-US",
+        "cookiesEnabled": true,
+        "doNotTrack": false
+      },
+      "os": {
+        "name": "Windows",
+        "version": "10/11",
+        "architecture": "x86_64"
+      },
+      "device": {
+        "type": "desktop",
+        "vendor": "Unknown",
+        "model": "Unknown",
+        "screen": "1366x768",
+        "colorDepth": 32,
+        "touchSupport": false,
+        "memory": "8 GB",
+        "cores": 8,
+        "connection": "Unknown",
+        "architecture": "x86_64"
+      },
+      "session": {
+        "referrer": "Direct",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
+      },
+      "timestamp": "2026-03-17T01:14:57.210Z"
+    },
+    {
+      "id": "DagPnuRnfJQm6bPXtSNF",
+      "network": {
+        "ip": "2803:1800:1110:c089:4c4a:1961:7bd2:11cd",
+        "isp": "Colombia Movil",
+        "timezone": "America/Bogota"
+      },
+      "location": {
+        "country": "Colombia",
+        "countryCode": "CO",
+        "region": "Tolima",
+        "city": "Ibagué",
+        "lat": 4.445634668304,
+        "lon": -75.23975110969134,
+        "source": "gps"
+      },
+      "browser": {
+        "name": "Chrome",
+        "version": "146.0.0.0",
+        "engine": "Blink",
+        "language": "en-US",
+        "cookiesEnabled": true,
+        "doNotTrack": false
+      },
+      "os": {
+        "name": "Windows",
+        "version": "10/11",
+        "architecture": "x86_64"
+      },
+      "device": {
+        "type": "desktop",
+        "vendor": "Unknown",
+        "model": "Unknown",
+        "screen": "1366x768",
+        "colorDepth": 32,
+        "touchSupport": false,
+        "memory": "8 GB",
+        "cores": 8,
+        "connection": "Unknown",
+        "architecture": "x86_64"
+      },
+      "session": {
+        "referrer": "Direct",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
+      },
+      "timestamp": "2026-03-17T01:14:57.210Z"
+    },
+    {
+      "id": "m5FrS0Hx58zllQA8ZnQb",
+      "network": {
+        "ip": "2803:1800:1110:c089:4c4a:1961:7bd2:11cd",
+        "isp": "Colombia Movil",
+        "timezone": "America/Bogota"
+      },
+      "location": {
+        "country": "Colombia",
+        "countryCode": "CO",
+        "region": "Tolima",
+        "city": "Ibagué",
+        "lat": 4.445634668304,
+        "lon": -75.23975110969134,
+        "source": "gps"
+      },
+      "browser": {
+        "name": "Chrome",
+        "version": "146.0.0.0",
+        "engine": "Blink",
+        "language": "en-US",
+        "cookiesEnabled": true,
+        "doNotTrack": false
+      },
+      "os": {
+        "name": "Windows",
+        "version": "10/11",
+        "architecture": "x86_64"
+      },
+      "device": {
+        "type": "desktop",
+        "vendor": "Unknown",
+        "model": "Unknown",
+        "screen": "1366x768",
+        "colorDepth": 32,
+        "touchSupport": false,
+        "memory": "8 GB",
+        "cores": 8,
+        "connection": "Unknown",
+        "architecture": "x86_64"
+      },
+      "session": {
+        "referrer": "Direct",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
+      },
+      "timestamp": "2026-03-17T01:13:54.231Z"
+    },
+    {
+      "id": "K9Y7XnSPfsoeB5XfK1ur",
+      "network": {
+        "ip": "2803:1800:1110:c089:4c4a:1961:7bd2:11cd",
+        "isp": "Colombia Movil",
+        "timezone": "America/Bogota"
+      },
+      "location": {
+        "country": "Colombia",
+        "countryCode": "CO",
+        "region": "Tolima",
+        "city": "Ibagué",
+        "lat": 4.445634668304,
+        "lon": -75.23975110969134,
+        "source": "gps"
+      },
+      "browser": {
+        "name": "Chrome",
+        "version": "146.0.0.0",
+        "engine": "Blink",
+        "language": "en-US",
+        "cookiesEnabled": true,
+        "doNotTrack": false
+      },
+      "os": {
+        "name": "Windows",
+        "version": "10/11",
+        "architecture": "x86_64"
+      },
+      "device": {
+        "type": "desktop",
+        "vendor": "Unknown",
+        "model": "Unknown",
+        "screen": "1366x768",
+        "colorDepth": 32,
+        "touchSupport": false,
+        "memory": "8 GB",
+        "cores": 8,
+        "connection": "Unknown",
+        "architecture": "x86_64"
+      },
+      "session": {
+        "referrer": "Direct",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
+      },
+      "timestamp": "2026-03-17T01:13:54.224Z"
+    },
+    {
+      "id": "gvjEPE8wiE6BqgBBR4e3",
+      "network": {
+        "ip": "190.67.197.178",
+        "isp": "COLOMBIA TELECOMUNICACIONES S.A. ESP BIC",
+        "timezone": "America/Bogota"
+      },
+      "location": {
+        "country": "Colombia",
+        "countryCode": "CO",
+        "region": "Tolima",
+        "city": "Ibagué",
+        "lat": 4.448911666062722,
+        "lon": -75.14329734718771,
+        "source": "gps"
+      },
+      "browser": {
+        "name": "Chrome",
+        "version": "145.0.0.0",
+        "engine": "Blink",
+        "language": "en-US",
+        "cookiesEnabled": true,
+        "doNotTrack": false
+      },
+      "os": {
+        "name": "Windows",
+        "version": "10/11",
+        "architecture": "x86_64"
+      },
+      "device": {
+        "type": "desktop",
+        "vendor": "Unknown",
+        "model": "Unknown",
+        "screen": "1366x768",
+        "colorDepth": 32,
+        "touchSupport": false,
+        "memory": "8 GB",
+        "cores": 8,
+        "connection": "Unknown",
+        "architecture": "x86_64"
+      },
+      "session": {
+        "referrer": "http://localhost:5173/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+      },
+      "timestamp": "2026-03-09T19:48:59.696Z"
+    },
+    {
+      "id": "FtMeYb58JVUWLF1iX7op",
+      "network": {
+        "ip": "190.67.197.178",
+        "isp": "COLOMBIA TELECOMUNICACIONES S.A. ESP BIC",
+        "timezone": "America/Bogota"
+      },
+      "location": {
+        "country": "Colombia",
+        "countryCode": "CO",
+        "region": "Tolima",
+        "city": "Ibagué",
+        "lat": 4.448911666062722,
+        "lon": -75.14329734718771,
+        "source": "gps"
+      },
+      "browser": {
+        "name": "Chrome",
+        "version": "145.0.0.0",
+        "engine": "Blink",
+        "language": "en-US",
+        "cookiesEnabled": true,
+        "doNotTrack": false
+      },
+      "os": {
+        "name": "Windows",
+        "version": "10/11",
+        "architecture": "x86_64"
+      },
+      "device": {
+        "type": "desktop",
+        "vendor": "Unknown",
+        "model": "Unknown",
+        "screen": "1366x768",
+        "colorDepth": 32,
+        "touchSupport": false,
+        "memory": "8 GB",
+        "cores": 8,
+        "connection": "Unknown",
+        "architecture": "x86_64"
+      },
+      "session": {
+        "referrer": "http://localhost:5173/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+      },
+      "timestamp": "2026-03-09T19:48:58.931Z"
+    },
+    {
+      "id": "nNKzinUzUiT2xyrOM6wO",
+      "network": {
+        "ip": "190.67.197.178",
+        "isp": "COLOMBIA TELECOMUNICACIONES S.A. ESP BIC",
+        "timezone": "America/Bogota"
+      },
+      "location": {
+        "country": "Colombia",
+        "countryCode": "CO",
+        "region": "Tolima",
+        "city": "Ibagué",
+        "lat": 4.448911666062722,
+        "lon": -75.14329734718771,
+        "source": "gps"
+      },
+      "browser": {
+        "name": "Chrome",
+        "version": "145.0.0.0",
+        "engine": "Blink",
+        "language": "en-US",
+        "cookiesEnabled": true,
+        "doNotTrack": false
+      },
+      "os": {
+        "name": "Windows",
+        "version": "10/11",
+        "architecture": "x86_64"
+      },
+      "device": {
+        "type": "desktop",
+        "vendor": "Unknown",
+        "model": "Unknown",
+        "screen": "1366x768",
+        "colorDepth": 32,
+        "touchSupport": false,
+        "memory": "8 GB",
+        "cores": 8,
+        "connection": "Unknown",
+        "architecture": "x86_64"
+      },
+      "session": {
+        "referrer": "http://localhost:5173/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+      },
+      "timestamp": "2026-03-09T19:42:18.963Z"
+    },
+    {
+      "id": "P8lq9uMevFEXATKNqMAk",
+      "network": {
+        "ip": "190.67.197.178",
+        "isp": "COLOMBIA TELECOMUNICACIONES S.A. ESP BIC",
+        "timezone": "America/Bogota"
+      },
+      "location": {
+        "country": "Colombia",
+        "countryCode": "CO",
+        "region": "Tolima",
+        "city": "Ibagué",
+        "lat": 4.448911666062722,
+        "lon": -75.14329734718771,
+        "source": "gps"
+      },
+      "browser": {
+        "name": "Chrome",
+        "version": "145.0.0.0",
+        "engine": "Blink",
+        "language": "en-US",
+        "cookiesEnabled": true,
+        "doNotTrack": false
+      },
+      "os": {
+        "name": "Windows",
+        "version": "10/11",
+        "architecture": "x86_64"
+      },
+      "device": {
+        "type": "desktop",
+        "vendor": "Unknown",
+        "model": "Unknown",
+        "screen": "1366x768",
+        "colorDepth": 32,
+        "touchSupport": false,
+        "memory": "8 GB",
+        "cores": 8,
+        "connection": "Unknown",
+        "architecture": "x86_64"
+      },
+      "session": {
+        "referrer": "http://localhost:5173/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+      },
+      "timestamp": "2026-03-09T19:42:18.185Z"
+    },
+    {
+      "id": "yhYh5bjgdxSvLEKTxT14",
+      "network": {
+        "ip": "190.67.197.178",
+        "isp": "COLOMBIA TELECOMUNICACIONES S.A. ESP BIC",
+        "timezone": "America/Bogota"
+      },
+      "location": {
+        "country": "Colombia",
+        "countryCode": "CO",
+        "region": "Tolima",
+        "city": "Ibagué",
+        "lat": 4.448888575785468,
+        "lon": -75.1433097685012,
+        "source": "gps"
+      },
+      "browser": {
+        "name": "Chrome",
+        "version": "145.0.0.0",
+        "engine": "Blink",
+        "language": "en-US",
+        "cookiesEnabled": true,
+        "doNotTrack": false
+      },
+      "os": {
+        "name": "Windows",
+        "version": "10/11",
+        "architecture": "x86_64"
+      },
+      "device": {
+        "type": "desktop",
+        "vendor": "Unknown",
+        "model": "Unknown",
+        "screen": "1366x768",
+        "colorDepth": 32,
+        "touchSupport": false,
+        "memory": "8 GB",
+        "cores": 8,
+        "connection": "Unknown",
+        "architecture": "x86_64"
+      },
+      "session": {
+        "referrer": "http://localhost:5173/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+      },
+      "timestamp": "2026-03-09T19:41:40.559Z"
+    },
+    {
+      "id": "hI58vkIxjzExD6RfOLHL",
+      "network": {
+        "ip": "190.67.197.178",
+        "isp": "COLOMBIA TELECOMUNICACIONES S.A. ESP BIC",
+        "timezone": "America/Bogota"
+      },
+      "location": {
+        "country": "Colombia",
+        "countryCode": "CO",
+        "region": "Tolima",
+        "city": "Ibagué",
+        "lat": 4.448888575785468,
+        "lon": -75.1433097685012,
+        "source": "gps"
+      },
+      "browser": {
+        "name": "Chrome",
+        "version": "145.0.0.0",
+        "engine": "Blink",
+        "language": "en-US",
+        "cookiesEnabled": true,
+        "doNotTrack": false
+      },
+      "os": {
+        "name": "Windows",
+        "version": "10/11",
+        "architecture": "x86_64"
+      },
+      "device": {
+        "type": "desktop",
+        "vendor": "Unknown",
+        "model": "Unknown",
+        "screen": "1366x768",
+        "colorDepth": 32,
+        "touchSupport": false,
+        "memory": "8 GB",
+        "cores": 8,
+        "connection": "Unknown",
+        "architecture": "x86_64"
+      },
+      "session": {
+        "referrer": "http://localhost:5173/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+      },
+      "timestamp": "2026-03-09T19:41:39.787Z"
+    },
+    {
+      "id": "iH5Pca91qiGG8MbIvAx0",
+      "network": {
+        "ip": "190.67.197.178",
+        "isp": "COLOMBIA TELECOMUNICACIONES S.A. ESP BIC",
+        "timezone": "America/Bogota"
+      },
+      "location": {
+        "country": "Colombia",
+        "countryCode": "CO",
+        "region": "Tolima",
+        "city": "Ibagué",
+        "lat": 4.44891765294855,
+        "lon": -75.1432796645892,
+        "source": "gps"
+      },
+      "browser": {
+        "name": "Chrome",
+        "version": "145.0.0.0",
+        "engine": "Blink",
+        "language": "en-US",
+        "cookiesEnabled": true,
+        "doNotTrack": false
+      },
+      "os": {
+        "name": "Windows",
+        "version": "10/11",
+        "architecture": "x86_64"
+      },
+      "device": {
+        "type": "desktop",
+        "vendor": "Unknown",
+        "model": "Unknown",
+        "screen": "1366x768",
+        "colorDepth": 32,
+        "touchSupport": false,
+        "memory": "8 GB",
+        "cores": 8,
+        "connection": "Unknown",
+        "architecture": "x86_64"
+      },
+      "session": {
+        "referrer": "http://localhost:5173/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+      },
+      "timestamp": "2026-03-09T19:41:14.492Z"
+    },
+    {
+      "id": "sMoynKbArivOJ9k5ftzk",
+      "network": {
+        "ip": "190.67.197.178",
+        "isp": "COLOMBIA TELECOMUNICACIONES S.A. ESP BIC",
+        "timezone": "America/Bogota"
+      },
+      "location": {
+        "country": "Colombia",
+        "countryCode": "CO",
+        "region": "Tolima",
+        "city": "Ibagué",
+        "lat": 4.44891765294855,
+        "lon": -75.1432796645892,
+        "source": "gps"
+      },
+      "browser": {
+        "name": "Chrome",
+        "version": "145.0.0.0",
+        "engine": "Blink",
+        "language": "en-US",
+        "cookiesEnabled": true,
+        "doNotTrack": false
+      },
+      "os": {
+        "name": "Windows",
+        "version": "10/11",
+        "architecture": "x86_64"
+      },
+      "device": {
+        "type": "desktop",
+        "vendor": "Unknown",
+        "model": "Unknown",
+        "screen": "1366x768",
+        "colorDepth": 32,
+        "touchSupport": false,
+        "memory": "8 GB",
+        "cores": 8,
+        "connection": "Unknown",
+        "architecture": "x86_64"
+      },
+      "session": {
+        "referrer": "http://localhost:5173/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+      },
+      "timestamp": "2026-03-09T19:41:13.744Z"
+    },
+    {
+      "id": "Ky1TTHz4ldXBpUuuZQWR",
+      "network": {
+        "ip": "190.67.197.178",
+        "isp": "COLOMBIA TELECOMUNICACIONES S.A. ESP BIC",
+        "timezone": "America/Bogota"
+      },
+      "location": {
+        "country": "Colombia",
+        "countryCode": "CO",
+        "region": "Tolima",
+        "city": "Ibagué",
+        "lat": 4.44891765294855,
+        "lon": -75.1432796645892,
+        "source": "gps"
+      },
+      "browser": {
+        "name": "Chrome",
+        "version": "145.0.0.0",
+        "engine": "Blink",
+        "language": "en-US",
+        "cookiesEnabled": true,
+        "doNotTrack": false
+      },
+      "os": {
+        "name": "Windows",
+        "version": "10/11",
+        "architecture": "x86_64"
+      },
+      "device": {
+        "type": "desktop",
+        "vendor": "Unknown",
+        "model": "Unknown",
+        "screen": "1366x768",
+        "colorDepth": 32,
+        "touchSupport": false,
+        "memory": "8 GB",
+        "cores": 8,
+        "connection": "Unknown",
+        "architecture": "x86_64"
+      },
+      "session": {
+        "referrer": "http://localhost:5173/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+      },
+      "timestamp": "2026-03-09T19:39:27.247Z"
+    },
+    {
+      "id": "J9b67bYuzPYWMPMFm2oS",
+      "network": {
+        "ip": "190.67.197.178",
+        "isp": "COLOMBIA TELECOMUNICACIONES S.A. ESP BIC",
+        "timezone": "America/Bogota"
+      },
+      "location": {
+        "country": "Colombia",
+        "countryCode": "CO",
+        "region": "Tolima",
+        "city": "Ibagué",
+        "lat": 4.44891765294855,
+        "lon": -75.1432796645892,
+        "source": "gps"
+      },
+      "browser": {
+        "name": "Chrome",
+        "version": "145.0.0.0",
+        "engine": "Blink",
+        "language": "en-US",
+        "cookiesEnabled": true,
+        "doNotTrack": false
+      },
+      "os": {
+        "name": "Windows",
+        "version": "10/11",
+        "architecture": "x86_64"
+      },
+      "device": {
+        "type": "desktop",
+        "vendor": "Unknown",
+        "model": "Unknown",
+        "screen": "1366x768",
+        "colorDepth": 32,
+        "touchSupport": false,
+        "memory": "8 GB",
+        "cores": 8,
+        "connection": "Unknown",
+        "architecture": "x86_64"
+      },
+      "session": {
+        "referrer": "http://localhost:5173/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+      },
+      "timestamp": "2026-03-09T19:39:26.499Z"
+    },
+    {
+      "id": "3WMnhunC2Z9rIWIlDENh",
+      "network": {
+        "ip": "190.67.197.178",
+        "isp": "COLOMBIA TELECOMUNICACIONES S.A. ESP BIC",
+        "timezone": "America/Bogota"
+      },
+      "location": {
+        "country": "Colombia",
+        "countryCode": "CO",
+        "region": "Tolima",
+        "city": "Ibagué",
+        "lat": 4.44891303268809,
+        "lon": -75.14327991944619,
+        "source": "gps"
+      },
+      "browser": {
+        "name": "Chrome",
+        "version": "145.0.0.0",
+        "engine": "Blink",
+        "language": "en-US",
+        "cookiesEnabled": true,
+        "doNotTrack": false
+      },
+      "os": {
+        "name": "Windows",
+        "version": "10/11",
+        "architecture": "x86_64"
+      },
+      "device": {
+        "type": "desktop",
+        "vendor": "Unknown",
+        "model": "Unknown",
+        "screen": "1366x768",
+        "colorDepth": 32,
+        "touchSupport": false,
+        "memory": "8 GB",
+        "cores": 8,
+        "connection": "Unknown",
+        "architecture": "x86_64"
+      },
+      "session": {
+        "referrer": "http://localhost:5173/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+      },
+      "timestamp": "2026-03-09T19:37:12.590Z"
+    },
+    {
+      "id": "bGwIb7JTYBwWQLeVeotC",
+      "network": {
+        "ip": "190.67.197.178",
+        "isp": "COLOMBIA TELECOMUNICACIONES S.A. ESP BIC",
+        "timezone": "America/Bogota"
+      },
+      "location": {
+        "country": "Colombia",
+        "countryCode": "CO",
+        "region": "Tolima",
+        "city": "Ibagué",
+        "lat": 4.44891303268809,
+        "lon": -75.14327991944619,
+        "source": "gps"
+      },
+      "browser": {
+        "name": "Chrome",
+        "version": "145.0.0.0",
+        "engine": "Blink",
+        "language": "en-US",
+        "cookiesEnabled": true,
+        "doNotTrack": false
+      },
+      "os": {
+        "name": "Windows",
+        "version": "10/11",
+        "architecture": "x86_64"
+      },
+      "device": {
+        "type": "desktop",
+        "vendor": "Unknown",
+        "model": "Unknown",
+        "screen": "1366x768",
+        "colorDepth": 32,
+        "touchSupport": false,
+        "memory": "8 GB",
+        "cores": 8,
+        "connection": "Unknown",
+        "architecture": "x86_64"
+      },
+      "session": {
+        "referrer": "http://localhost:5173/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+      },
+      "timestamp": "2026-03-09T19:37:11.832Z"
+    },
+    {
+      "id": "ALMoCsr24IPWjrQrA6UY",
+      "network": {
+        "ip": "190.67.197.178",
+        "isp": "COLOMBIA TELECOMUNICACIONES S.A. ESP BIC",
+        "timezone": "America/Bogota"
+      },
+      "location": {
+        "country": "Colombia",
+        "countryCode": "CO",
+        "region": "Tolima",
+        "city": "Ibagué",
+        "lat": 4.44891303268809,
+        "lon": -75.14327991944619,
+        "source": "gps"
+      },
+      "browser": {
+        "name": "Chrome",
+        "version": "145.0.0.0",
+        "engine": "Blink",
+        "language": "en-US",
+        "cookiesEnabled": true,
+        "doNotTrack": false
+      },
+      "os": {
+        "name": "Windows",
+        "version": "10/11",
+        "architecture": "x86_64"
+      },
+      "device": {
+        "type": "desktop",
+        "vendor": "Unknown",
+        "model": "Unknown",
+        "screen": "1366x768",
+        "colorDepth": 32,
+        "touchSupport": false,
+        "memory": "8 GB",
+        "cores": 8,
+        "connection": "Unknown",
+        "architecture": "x86_64"
+      },
+      "session": {
+        "referrer": "http://localhost:5173/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+      },
+      "timestamp": "2026-03-09T19:27:24.799Z"
+    },
+    {
+      "id": "wJ8m9iBdqr9BafkGy266",
+      "network": {
+        "ip": "190.67.197.178",
+        "isp": "COLOMBIA TELECOMUNICACIONES S.A. ESP BIC",
+        "timezone": "America/Bogota"
+      },
+      "location": {
+        "country": "Colombia",
+        "countryCode": "CO",
+        "region": "Tolima",
+        "city": "Ibagué",
+        "lat": 4.44891303268809,
+        "lon": -75.14327991944619,
+        "source": "gps"
+      },
+      "browser": {
+        "name": "Chrome",
+        "version": "145.0.0.0",
+        "engine": "Blink",
+        "language": "en-US",
+        "cookiesEnabled": true,
+        "doNotTrack": false
+      },
+      "os": {
+        "name": "Windows",
+        "version": "10/11",
+        "architecture": "x86_64"
+      },
+      "device": {
+        "type": "desktop",
+        "vendor": "Unknown",
+        "model": "Unknown",
+        "screen": "1366x768",
+        "colorDepth": 32,
+        "touchSupport": false,
+        "memory": "8 GB",
+        "cores": 8,
+        "connection": "Unknown",
+        "architecture": "x86_64"
+      },
+      "session": {
+        "referrer": "http://localhost:5173/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+      },
+      "timestamp": "2026-03-09T19:27:24.060Z"
+    },
+    {
+      "id": "js3sSYvjIFE6TtHc2wpn",
+      "network": {
+        "ip": "190.67.197.178",
+        "isp": "COLOMBIA TELECOMUNICACIONES S.A. ESP BIC",
+        "timezone": "America/Bogota"
+      },
+      "location": {
+        "country": "Colombia",
+        "countryCode": "CO",
+        "region": "Tolima",
+        "city": "Ibagué",
+        "lat": 4.448889825141159,
+        "lon": -75.14330662634063,
+        "source": "gps"
+      },
+      "browser": {
+        "name": "Safari",
+        "version": "18.5",
+        "engine": "WebKit",
+        "language": "en-US",
+        "cookiesEnabled": true,
+        "doNotTrack": false
+      },
+      "os": {
+        "name": "macOS",
+        "version": "Unknown",
+        "architecture": "x86_64"
+      },
+      "device": {
+        "type": "mobile",
+        "vendor": "Apple",
+        "model": "iPhone",
+        "screen": "430x932",
+        "colorDepth": 32,
+        "touchSupport": true,
+        "memory": "8 GB",
+        "cores": 8,
+        "connection": "Unknown",
+        "architecture": "x86_64"
+      },
+      "session": {
+        "referrer": "http://localhost:5173/",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Mobile/15E148 Safari/604.1"
+      },
+      "timestamp": "2026-03-09T19:26:53.778Z"
+    },
+    {
+      "id": "KVXtBSCvEk4nxd6hpz26",
+      "network": {
+        "ip": "190.67.197.178",
+        "isp": "COLOMBIA TELECOMUNICACIONES S.A. ESP BIC",
+        "timezone": "America/Bogota"
+      },
+      "location": {
+        "country": "Colombia",
+        "countryCode": "CO",
+        "region": "Tolima",
+        "city": "Ibagué",
+        "lat": 4.448889825141159,
+        "lon": -75.14330662634063,
+        "source": "gps"
+      },
+      "browser": {
+        "name": "Safari",
+        "version": "18.5",
+        "engine": "WebKit",
+        "language": "en-US",
+        "cookiesEnabled": true,
+        "doNotTrack": false
+      },
+      "os": {
+        "name": "macOS",
+        "version": "Unknown",
+        "architecture": "x86_64"
+      },
+      "device": {
+        "type": "mobile",
+        "vendor": "Apple",
+        "model": "iPhone",
+        "screen": "430x932",
+        "colorDepth": 32,
+        "touchSupport": true,
+        "memory": "8 GB",
+        "cores": 8,
+        "connection": "Unknown",
+        "architecture": "x86_64"
+      },
+      "session": {
+        "referrer": "http://localhost:5173/",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Mobile/15E148 Safari/604.1"
+      },
+      "timestamp": "2026-03-09T19:26:53.778Z"
+    },
+    {
+      "id": "RAUaysuhrKfFhli1VkpJ",
+      "network": {
+        "ip": "190.45.23.1",
+        "isp": "Claro Colombia",
+        "timezone": "America/Bogota"
+      },
+      "location": {
+        "country": "Colombia",
+        "countryCode": "CO",
+        "region": "Tolima",
+        "city": "Ibagué",
+        "lat": 4.4389,
+        "lon": -75.2322,
+        "source": "gps"
+      },
+      "browser": {
+        "name": "Chrome",
+        "version": "122.0"
+      },
+      "os": {
+        "name": "Windows",
+        "version": "11"
+      },
+      "device": {
+        "type": "desktop"
+      },
+      "timestamp": "2026-03-09T17:43:09.979Z"
+    }
+  ]
+}

@@ -1,3 +1,5 @@
+const fs = require("fs");
+const path = require("path");
 const {
   saveVisitor,
   getVisitors,
@@ -139,13 +141,11 @@ const getOneVisitor = async (req, res, next) => {
   try {
     const { id } = req.params;
     const visitor = await getVisitorById(id);
-
     if (!visitor) {
       return res
         .status(404)
         .json({ error: `Visitante con id "${id}" no encontrado` });
     }
-
     return res.json({ success: true, data: visitor });
   } catch (error) {
     next(error);
@@ -162,9 +162,47 @@ const getStatistics = async (req, res, next) => {
   }
 };
 
+// GET /api/visitors/logs/download
+const generateLog = async (req, res, next) => {
+  try {
+    const visitors = await getVisitors({});
+    const stats = await getStats();
+
+    // Crear carpeta logs si no existe
+    const logsDir = path.join(__dirname, "../../logs");
+    if (!fs.existsSync(logsDir)) {
+      fs.mkdirSync(logsDir, { recursive: true });
+    }
+
+    // Nombre del archivo con timestamp
+    const timestamp = new Date().toISOString().replace(/[:.]/g, "-");
+    const filename = `visitors-log-${timestamp}.json`;
+    const filepath = path.join(logsDir, filename);
+
+    // Contenido del log
+    const logContent = {
+      generatedAt: new Date().toISOString(),
+      totalRecords: visitors.length,
+      stats,
+      visitors,
+    };
+
+    // Guardar en disco
+    fs.writeFileSync(filepath, JSON.stringify(logContent, null, 2), "utf-8");
+
+    // Enviar para descarga
+    res.setHeader("Content-Type", "application/json");
+    res.setHeader("Content-Disposition", `attachment; filename="${filename}"`);
+    return res.send(JSON.stringify(logContent, null, 2));
+  } catch (error) {
+    next(error);
+  }
+};
+
 module.exports = {
   createVisitor,
   getAllVisitors,
   getOneVisitor,
   getStatistics,
+  generateLog,
 };

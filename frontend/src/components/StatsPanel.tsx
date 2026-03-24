@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import type { StatsData } from "../types/visitor";
-import { getStats } from "../services/api";
+import { getStats, downloadLog } from "../services/api";
 
 const StatCard = ({
   label,
@@ -77,6 +77,19 @@ const StatsPanel = () => {
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
 
+  const [downloading, setDownloading] = useState(false);
+
+  const handleDownloadLog = async () => {
+    setDownloading(true);
+    try {
+      await downloadLog();
+    } catch {
+      alert("Error al generar el log");
+    } finally {
+      setDownloading(false);
+    }
+  };
+
   useEffect(() => {
     const fetchStats = async () => {
       try {
@@ -120,6 +133,13 @@ const StatsPanel = () => {
         <p className="text-white/40 text-sm mt-1">
           Se actualiza cada 30 segundos
         </p>
+        <button
+          onClick={handleDownloadLog}
+          disabled={downloading}
+          className="mt-4 px-6 py-2 rounded-xl text-sm font-medium bg-white/10 border border-white/20 text-white hover:bg-white/20 transition-all duration-200 disabled:opacity-50 disabled:cursor-not-allowed"
+        >
+          {downloading ? "⏳ Generando..." : "📥 Exportar Log JSON"}
+        </button>
       </div>
 
       {/* Totales */}

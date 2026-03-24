@@ -64,3 +64,23 @@ export const getVisitorById = async (id: string): Promise<VisitorResponse> => {
   const { data } = await api.get(`/visitors/${id}`);
   return data.data;
 };
+
+// Generar y descargar log JSON
+export const downloadLog = async (): Promise<void> => {
+  const response = await fetch("/api/visitors/logs/download");
+  if (!response.ok) throw new Error("Error al generar el log");
+
+  const blob = await response.blob();
+  const contentDisposition = response.headers.get("Content-Disposition");
+  const filename =
+    contentDisposition?.split("filename=")?.[1] || "visitors-log.json";
+
+  const url = URL.createObjectURL(blob);
+  const a = document.createElement("a");
+  a.href = url;
+  a.download = filename;
+  document.body.appendChild(a);
+  a.click();
+  document.body.removeChild(a);
+  URL.revokeObjectURL(url);
+};
